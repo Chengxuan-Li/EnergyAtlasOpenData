@@ -1,0 +1,88 @@
+doe_building_type,confidence,justification,key
+OtherIndustrial,0.7,Agricultural buildings are typically industrial or utility structures related to farming operations.,agricultural
+SingleFamilyDetached,0.6,"An allotment house is usually a small residential structure on a garden plot, similar to a detached single-family home.",allotment_house
+MidriseApartment,0.8,Apartments generally correspond to multi-unit residential buildings; midrise is a common classification.,apartments
+OtherIndustrial,0.7,"Barns are agricultural utility buildings, best classified as other industrial.",barn
+SingleFamilyDetached,0.5,"Beach huts are small residential or recreational structures, similar to small detached homes.",beach_hut
+OtherCommercial,0.5,"Boathouses are specialized commercial or recreational buildings, not fitting other categories.",boathouse
+OtherIndustrial,0.6,"Bridge structures are infrastructure, best classified as other industrial.",bridge_structure
+SingleFamilyDetached,0.9,Bungalows are single-family detached homes.,bungalow
+OtherIndustrial,0.6,Bunkers are specialized industrial or military structures.,bunker
+SingleFamilyDetached,0.7,Cabins are small detached residential buildings.,cabin
+OtherCommercial,0.5,"Carports are auxiliary structures, best classified as other commercial.",carport
+OtherCommercial,0.7,"Cathedrals are large religious buildings, not fitting other DOE types.",cathedral
+OtherCommercial,0.7,"Chapels are religious buildings, best classified as other commercial.",chapel
+OtherCommercial,0.7,"Churches are religious buildings, not fitting other DOE types.",church
+OtherCommercial,0.6,"Civic buildings are public service buildings, best classified as other commercial.",civic
+SecondarySchool,0.7,"College buildings are educational, often similar to secondary schools in DOE classification.",college
+StripMall,0.6,Commercial buildings often correspond to retail strip malls.,commercial
+OtherIndustrial,0.7,Cowsheds are agricultural utility buildings.,cowshed
+SingleFamilyDetached,0.9,Detached refers to single-family detached homes.,detached
+OtherIndustrial,0.7,Digesters are industrial/agricultural processing structures.,digester
+MidriseApartment,0.6,Dormitories are residential multi-unit buildings similar to midrise apartments.,dormitory
+SingleFamilyDetached,0.8,Dwelling houses are typically single-family detached homes.,dwelling_house
+OtherIndustrial,0.9,Factories are industrial buildings.,factory
+OtherIndustrial,0.7,"Farms are agricultural operations, best classified as other industrial.",farm
+OtherIndustrial,0.7,Farm auxiliary buildings are agricultural support structures.,farm_auxiliary
+OtherCommercial,0.6,"Fire stations are public service buildings, best classified as other commercial.",fire_station
+OtherCommercial,0.5,Garages are auxiliary or commercial service buildings.,garage
+OtherCommercial,0.5,Garages plural are similar to single garage classification.,garages
+SingleFamilyDetached,0.5,"Ger is a traditional dwelling, similar to single-family detached homes.",ger
+OtherIndustrial,0.6,Glasshouses are agricultural or horticultural industrial structures.,glasshouse
+OtherCommercial,0.8,Government buildings are typically commercial or institutional in nature but do not fit into other specific categories.,government
+OtherCommercial,0.7,"A grandstand is a seating structure for spectators, often part of commercial or public venues, best categorized as OtherCommercial.",grandstand
+OtherIndustrial,0.9,Greenhouses are used for plant production and are industrial/agricultural facilities.,greenhouse
+OtherCommercial,0.6,"A guardhouse is a small security building, typically commercial or institutional.",guardhouse
+Warehouse,0.8,"Hangars are large storage buildings for aircraft, similar to warehouses.",hangar
+Hospital,1.0,Hospital is directly matched to the DOE building type Hospital.,hospital
+LargeHotel,0.8,Hotel is best matched to LargeHotel as a general hotel category.,hotel
+SingleFamilyDetached,0.9,House typically refers to a single-family detached dwelling.,house
+OtherCommercial,0.4,"Houseboat is a residential boat; no direct DOE building type, assigned OtherCommercial with low confidence.",houseboat
+OtherCommercial,0.3,"Hut is a small simple dwelling; no direct DOE type, assigned OtherCommercial with low confidence.",hut
+OtherIndustrial,0.9,Industrial buildings are best matched to OtherIndustrial.,industrial
+PrimarySchool,0.8,"Kindergarten is an early childhood education facility, best matched to PrimarySchool.",kindergarten
+OtherCommercial,0.5,"Kiosk is a small retail structure, assigned OtherCommercial due to lack of specific retail types.",kiosk
+OtherCommercial,0.7,"Library is a public/commercial building, best matched to OtherCommercial.",library
+OtherIndustrial,0.9,Manufacture buildings are industrial facilities.,manufacture
+OtherCommercial,0.6,Military buildings vary; assigned OtherCommercial as a general category.,military
+OtherCommercial,0.5,"Monastery is a religious residential building; no direct DOE type, assigned OtherCommercial.",monastery
+OtherCommercial,0.5,"Mosque is a religious building; no direct DOE type, assigned OtherCommercial.",mosque
+LargeOffice,0.8,Office buildings are best matched to LargeOffice.,office
+OtherCommercial,0.4,"Outbuilding is a secondary building; no direct DOE type, assigned OtherCommercial.",outbuilding
+OtherCommercial,0.3,Parking is not a building type; assigned OtherCommercial with low confidence.,parking
+OtherCommercial,0.5,"Pavilion is a small open building, assigned OtherCommercial.",pavilion
+OtherCommercial,0.7,"Post office is a commercial/institutional building, assigned OtherCommercial.",post_office
+OtherCommercial,0.5,"Presbytery is a clergy residence; no direct DOE type, assigned OtherCommercial.",presbytery
+OtherCommercial,0.6,Public is vague; assigned OtherCommercial.,public
+OtherCommercial,0.5,Religious buildings without specific type assigned OtherCommercial.,religious
+SingleFamilyDetached,0.7,Residential generally refers to housing; assigned SingleFamilyDetached as most common.,residential
+StandaloneRetail,0.8,Retail buildings best matched to StandaloneRetail.,retail
+OtherCommercial,0.2,Roof is not a building type; assigned OtherCommercial with very low confidence.,roof
+SecondarySchool,0.8,School is best matched to SecondarySchool as a general school category.,school
+SingleFamilyDetached,0.9,"Semi typically refers to semi-detached houses, which are a form of single-family detached housing.",semi
+SingleFamilyDetached,0.95,Semidetached_house directly corresponds to single-family detached housing type.,semidetached_house
+OtherCommercial,0.7,"Service is a broad term; likely commercial services, so mapped to OtherCommercial.",service
+Warehouse,0.8,"Shed is typically a small storage building, best matched to Warehouse.",shed
+OtherCommercial,0.5,"Shrine is a religious structure, no direct DOE type; assigned OtherCommercial as a catch-all.",shrine
+OtherIndustrial,0.85,"Silo is an industrial storage structure, mapped to OtherIndustrial.",silo
+OtherIndustrial,0.85,"Slurry_tank is an industrial storage tank, best matched to OtherIndustrial.",slurry_tank
+OtherCommercial,0.8,"Sports_centre is a recreational facility, no direct DOE type, assigned OtherCommercial.",sports_centre
+OtherCommercial,0.8,"Sports_hall is a recreational building, mapped to OtherCommercial.",sports_hall
+OtherIndustrial,0.7,"Stable is an agricultural building, best matched to OtherIndustrial.",stable
+OtherCommercial,0.7,"Stadium is a large public venue, no direct DOE type, assigned OtherCommercial.",stadium
+MobileHome,0.95,Static_caravan corresponds to MobileHome.,static_caravan
+SingleFamilyDetached,0.7,Stilt_house is a type of single-family dwelling elevated on stilts.,stilt_house
+OtherIndustrial,0.85,Storage_tank is an industrial storage facility.,storage_tank
+OtherIndustrial,0.7,"Sty is a pigsty, an agricultural building, mapped to OtherIndustrial.",sty
+SuperMarket,0.99,Supermarket directly matches DOE SuperMarket.,supermarket
+OtherCommercial,0.5,"Synagogue is a religious building, no direct DOE type; assigned OtherCommercial.",synagogue
+OtherCommercial,0.5,"Temple is a religious building, no direct DOE type; assigned OtherCommercial.",temple
+SingleFamilyAttached,0.9,"Terrace refers to terraced houses, which are single-family attached dwellings.",terrace
+OtherCommercial,0.6,"Toilets are ancillary facilities, no direct DOE type; assigned OtherCommercial.",toilets
+OtherCommercial,0.7,"Train_station is a transportation facility, no direct DOE type; assigned OtherCommercial.",train_station
+OtherIndustrial,0.8,Transformer_tower is an industrial electrical structure.,transformer_tower
+OtherCommercial,0.6,Transportation is a broad term; assigned OtherCommercial as best fit.,transportation
+SingleFamilyDetached,0.6,"Trullo is a traditional stone house, considered single-family detached.",trullo
+SecondarySchool,0.7,University is an educational institution; closest DOE type is SecondarySchool.,university
+Warehouse,0.95,Warehouse directly matches DOE Warehouse.,warehouse
+OtherCommercial,0.5,"Wayside_shrine is a religious structure, no direct DOE type; assigned OtherCommercial.",wayside_shrine
